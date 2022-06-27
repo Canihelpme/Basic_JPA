@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3d6b623-5bc9-4754-b6f9-b50767322db0" name="Changes" comment="" />
+    <list default="true" id="d3d6b623-5bc9-4754-b6f9-b50767322db0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +90,7 @@
       <updated>1656229695747</updated>
       <workItem from="1656229697423" duration="1719000" />
       <workItem from="1656231637979" duration="83000" />
-      <workItem from="1656231738410" duration="4435000" />
+      <workItem from="1656231738410" duration="5209000" />
     </task>
     <servers />
   </component>

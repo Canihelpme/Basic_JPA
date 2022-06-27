@@ -11,7 +11,7 @@ public class JpaMain {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("hello");
         //emf 생성
         EntityManager em = emf.createEntityManager();
-
+        //Entity Manager Thread간의 공유 절대 금지 항상 Close해서 초기화
         EntityTransaction tx = em.getTransaction();
         //Transaction 호출
         tx.begin();
